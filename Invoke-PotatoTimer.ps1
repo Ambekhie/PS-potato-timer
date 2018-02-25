@@ -52,7 +52,7 @@ Function Invoke-PotatoTimer
 	$duration = 1000
 	$message = 'Go!'
 	$messageType = 'Info'
-	$title = 'Potat-Timer'
+	$title = 'Potato-Timer'
 	$orderOfPotatoUnit = 4
 	$potatoUnit = $(New-TimeSpan -Minutes 15)
 	Invoke-PotatoTip $messageType $title $message $duration
