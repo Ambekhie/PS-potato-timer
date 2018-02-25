@@ -7,7 +7,7 @@
 .NOTES
 	 Author     : Amr Bekhiet - t-ambekh@microsoft.com
 .LINK
-	 http://tfl09.blogspot.com
+	 https://github.com/Btatsaya/PS-potato-timer
 #>
 
 Function Go-Sleep ($targetTime)
